@@ -1,0 +1,173 @@
+plot,year,n,soil
+ynp_100,2013,21,sandy loam
+ynp_101,2013,37,sandy loam
+ynp_102,2013,22,sandy loam
+ynp_103,2013,35,sandy loam
+ynp_104,2013,20,sandy loam
+ynp_105,2013,18,sandy clay loam
+ynp_106,2013,19,sandy loam
+ynp_107,2013,44,sandy loam
+ynp_108,2013,17,sandy loam
+ynp_109,2013,13,sandy clay loam
+ynp_110,2013,26,sandy loam
+ynp_112,2013,44,loamy sand
+ynp_113,2013,22,sandy loam
+ynp_114,2013,9,sandy loam
+ynp_26,2013,49,sandy loam
+ynp_27,2013,32,sandy loam
+ynp_28,2013,43,loam
+ynp_29,2013,22,sandy loam
+ynp_31,2013,22,sandy loam
+ynp_33,2013,18,loam
+ynp_35,2013,24,sandy loam
+ynp_36,2013,24,sandy loam
+ynp_38,2013,15,sandy loam
+ynp_39,2013,25,loamy sand
+ynp_40,2013,24,loamy sand
+ynp_41,2013,28,sandy loam
+ynp_42,2013,4,sandy loam
+ynp_43,2013,14,sandy loam
+ynp_45,2013,10,loam
+ynp_46,2013,12,sandy loam
+ynp_47,2013,16,loamy sand
+ynp_48,2013,14,loamy sand
+ynp_49,2013,16,loam
+ynp_50,2013,14,loamy sand
+ynp_51,2013,29,sandy loam
+ynp_52,2013,26,sandy loam
+ynp_54,2013,18,sandy loam
+ynp_55,2013,46,sandy loam
+ynp_60,2013,27,sandy loam
+ynp_61,2013,26,sandy loam
+ynp_63,2013,11,sandy clay loam
+ynp_64,2013,27,sandy loam
+ynp_65,2013,11,sandy clay loam
+ynp_66,2013,25,sandy loam
+ynp_67,2013,6,sandy loam
+ynp_68,2013,19,sandy loam
+ynp_69,2013,12,sandy loam
+ynp_70,2013,7,sandy loam
+ynp_72,2013,13,sandy clay loam
+ynp_73,2013,27,sandy loam
+ynp_75,2013,18,sandy loam
+ynp_76,2013,15,sandy clay loam
+ynp_77,2013,10,loamy sand
+ynp_78,2013,26,sandy loam
+ynp_79,2013,18,loamy sand
+ynp_80,2013,21,sandy loam
+ynp_81,2013,18,sandy loam
+ynp_82,2013,33,sandy loam
+ynp_83,2013,25,sandy loam
+ynp_84,2013,33,sandy loam
+ynp_85,2013,13,clay loam
+ynp_86,2013,23,sandy loam
+ynp_87,2013,20,loam
+ynp_89,2013,15,loam
+ynp_90,2013,20,loam
+ynp_91,2013,26,sandy loam
+ynp_92,2013,31,sandy loam
+ynp_93,2013,42,sandy loam
+ynp_94,2013,13,loam
+ynp_95,2013,21,sandy loam
+ynp_96,2013,11,loam
+ynp_97,2013,31,loam
+ynp_98,2013,19,loam
+ynp_99,2013,18,loam
+aaw_100,2021,26,loam
+aaw_121,2021,34,loam
+aaw_124,2021,7,loam
+aaw_134,2021,16,loam
+aaw_185,2021,49,loam
+aaw_21,2021,36,loam
+aaw_25,2021,41,clay loam
+aaw_51,2021,28,loam
+ynp_1,2021,20,loam
+ynp_100,2021,11,sandy loam
+ynp_13,2021,13,loam
+ynp_14,2021,11,loam
+ynp_15,2021,16,sandy loam
+ynp_16,2021,19,sandy loam
+ynp_19,2021,10,sandy loam
+ynp_23,2021,5,sandy clay loam
+ynp_24,2021,27,clay loam
+ynp_30,2021,33,sandy loam
+ynp_34,2021,15,sandy loam
+ynp_4,2021,17,loam
+ynp_41,2021,19,sandy loam
+ynp_44,2021,8,NA
+ynp_49,2021,16,loam
+ynp_51,2021,35,sandy loam
+ynp_53,2021,13,NA
+ynp_60,2021,22,sandy loam
+ynp_7,2021,18,loam
+ynp_83,2021,18,sandy loam
+ynp_84,2021,25,sandy loam
+aaw_101,2022,32,loam
+aaw_102,2022,31,sandy loam
+aaw_116,2022,17,sandy clay loam
+aaw_118,2022,24,loamy sand
+aaw_130,2022,24,sandy clay loam
+aaw_137,2022,11,sandy loam
+aaw_139,2022,24,loam
+aaw_143,2022,34,loamy sand
+aaw_145,2022,16,sandy loam
+aaw_149,2022,27,loamy sand
+aaw_155,2022,21,sandy clay loam
+aaw_163,2022,42,sandy loam
+aaw_167,2022,27,loam
+aaw_171,2022,18,sandy loam
+aaw_176,2022,24,NA
+aaw_178,2022,13,loamy sand
+aaw_183,2022,41,clay loam
+aaw_187,2022,13,loam
+aaw_19,2022,41,clay loam
+aaw_191,2022,29,loamy sand
+aaw_192,2022,26,sandy loam
+aaw_20,2022,31,loamy sand
+aaw_22,2022,32,sandy clay loam
+aaw_36,2022,37,clay loam
+aaw_50,2022,11,sandy clay loam
+aaw_61,2022,32,loamy sand
+aaw_62,2022,16,loam
+aaw_64,2022,16,loamy sand
+aaw_65,2022,17,loam
+aaw_68,2022,26,loamy sand
+aaw_70,2022,21,sandy clay loam
+aaw_72,2022,22,loam
+aaw_76,2022,35,clay loam
+aaw_77,2022,23,loamy sand
+aaw_80,2022,21,loamy sand
+aaw_83,2022,25,loamy sand
+aaw_86,2022,24,sandy loam
+aaw_88,2022,18,loamy sand
+aaw_92,2022,3,clay loam
+aaw_96,2022,24,loamy sand
+aaw_99,2022,18,loamy sand
+ynp_101,2022,24,sandy loam
+ynp_105,2022,9,sandy clay loam
+ynp_106,2022,18,sandy loam
+ynp_109,2022,15,sandy clay loam
+ynp_112,2022,39,loamy sand
+ynp_113,2022,15,sandy loam
+ynp_17,2022,18,sandy loam
+ynp_18,2022,14,sandy loam
+ynp_2,2022,12,sandy loam
+ynp_20,2022,16,sandy loam
+ynp_26,2022,24,sandy loam
+ynp_3,2022,22,loamy sand
+ynp_39,2022,13,loamy sand
+ynp_40,2022,11,loamy sand
+ynp_45,2022,11,loam
+ynp_47,2022,11,loamy sand
+ynp_50,2022,14,loamy sand
+ynp_52,2022,19,sandy loam
+ynp_71,2022,10,loamy sand
+ynp_72,2022,13,sandy clay loam
+ynp_74,2022,13,loam
+ynp_76,2022,11,sandy clay loam
+ynp_77,2022,14,loamy sand
+ynp_79,2022,17,loamy sand
+ynp_85,2022,10,clay loam
+ynp_89,2022,13,loam
+ynp_91,2022,14,sandy loam
+ynp_94,2022,12,loam
